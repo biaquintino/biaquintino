@@ -12,7 +12,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
   
-  Atualmente sou estudante de T.I e cada dia mais apaixonada pelo mundo da tecnologia.
+  Atualmente sou estudante de SI e tenho procurado estudar sobre um pouco de tudo para saber onde vou atuar.
   
  
 ### Onde você pode me encontrar 👇
