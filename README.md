@@ -12,7 +12,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
   
-  Atualmente sou estudante de SI e tenho procurado estudar sobre um pouco de tudo para saber onde vou atuar.
+  Atualmente sou estudante de Sistemas de Informação, venho procurando estudar sobre um pouco de tudo, tenho facilidade em aprender e disposição para isso. Seja bem-vindo(a) ao meu Github, é uma satisfação ter você por aqui. 
   
  
 ### Onde você pode me encontrar 👇
